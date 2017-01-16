@@ -6,6 +6,8 @@
 .top-section {
 	background-color: #F8F8F8;
 	padding-top: 10px;
+	color: #959595;
+
 }
 
 .top-section__img {
@@ -23,6 +25,32 @@
 	float: left;
 }
 
+.navbar-nav {
+	font-size: 18px;
+}
+
 .first-section {
-	background-image: url(img/background11.jpg);
+	background-image: url(../img/background1111.jpg);
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.first-section__title {
+	font-size: 56px;
+	color: #FF0033;
+	text-shadow: 1px 1px 3px black;
+}
+
+.first-section_form {
+	padding-top: 20px;
+	padding-left: 30px;
+	font-size: 16px;
+	color: #666666;
+	
+}
+
+.first-section__btn {
+	color: #666666;
+	font-size: 16px;
+
 }
