@@ -110,3 +110,8 @@
 	background-image: url(../img/background22.jpg);
 	margin-top: 15px;
 }
+
+.escort_result {
+	/*color: black;*/
+	font-weight: bold;
+}
